@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SInglePage/static/css/main.7d2cde8f.css",
+    "main.js": "/SInglePage/static/js/main.6c333bfc.js",
+    "index.html": "/SInglePage/index.html",
+    "main.7d2cde8f.css.map": "/SInglePage/static/css/main.7d2cde8f.css.map",
+    "main.6c333bfc.js.map": "/SInglePage/static/js/main.6c333bfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d2cde8f.css",
+    "static/js/main.6c333bfc.js"
+  ]
+}
